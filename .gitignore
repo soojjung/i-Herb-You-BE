@@ -41,3 +41,6 @@ out/
 
 # Environment variables
 .env
+
+### Test ###
+src/test/
